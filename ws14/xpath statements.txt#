@@ -1,0 +1,7 @@
+/products//product/product
+/products/product[2]/product
+/products//product[./keywords/keyword="heels"]/rrp | /products//product[./keywords/keyword="heels"]/price
+sum(/products//product/price)
+sum(/products//product/price)*sum(/products//product/stock)
+(((sum(/products//product/price))*(sum(/products//product/stock))-(sum(/products//product/rrp))*(sum(/products//product/stock)) div (sum(/products//product/rrp))*(sum(/products//product/stock))*100) div 100)
+//Needs work ^^^

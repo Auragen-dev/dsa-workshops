@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<current_observation>
+    <quotes>
+        <record id="<?php ?>">
+            <quote><?php ?></quote>
+            <source><?php ?></source>
+            <dob-dod><?php ?></dob-dod>
+            <wplink><?php ?></wplink>
+            <wpimg><?php ?></wpimg>
+            <category><?php ?></category>
+        </record>
+    </quotes>
+</current_observation>

@@ -1,0 +1,21 @@
+<category>
+    <id></id>
+    <type></type>
+</category>
+
+<category_product>
+    <product_id></product_id>
+    <category_type></category_type>
+</category_product>
+
+<product>
+    <id></id>
+    <name></name>
+    <description></description>
+    <rrp></rrp>
+    <price></price>
+    <manufacturer></manufacturer>
+    <image></image>
+    <keywords></keywords>
+    <category></category>
+</product>
